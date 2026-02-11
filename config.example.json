@@ -1,0 +1,21 @@
+{
+  "blogs": [
+    "some_investor_blog_id",
+    "another_semiconductor_blog"
+  ],
+  "keywords": [
+    "반도체",
+    "메모리",
+    "HBM",
+    "DRAM",
+    "NAND",
+    "파운드리",
+    "TSMC",
+    "삼성전자",
+    "SK하이닉스",
+    "실적",
+    "수요",
+    "CAPEX"
+  ],
+  "lookback_days": 1
+}
